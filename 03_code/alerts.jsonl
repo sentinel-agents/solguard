@@ -1,0 +1,13 @@
+{"transaction_id": "tx1", "severity": "MEDIUM RISK", "score": 45, "reasons": ["high_value_transfer_token>=1000", "rounded_amount_pattern"]}
+{"transaction_id": "tx2", "severity": "LOW RISK", "score": 10, "reasons": ["rounded_amount_pattern"]}
+{"transaction_id": "tx3", "severity": "MEDIUM RISK", "score": 45, "reasons": ["high_value_transfer_token>=1000", "rounded_amount_pattern"]}
+{"type": "session_summary", "total_transactions": 3, "high": 0, "medium": 2, "low": 1, "posture": "ELEVATED", "recommendations": ["Review MEDIUM risk transactions", "Monitor for repeated patterns and follow-up transactions"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
