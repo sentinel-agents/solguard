@@ -4,6 +4,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
+
+
 
 # ======================
 # Environments
@@ -34,3 +37,9 @@ logs/
 .DS_Store
 .vscode/
 .idea/
+
+# Runtime outputs
+03_code/demo_output.jsonl
+03_code/agent_log.jsonl
+03_code/*.jsonl
+
