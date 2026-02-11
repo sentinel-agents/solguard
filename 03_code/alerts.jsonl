@@ -11,3 +11,6 @@
 {"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
 {"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
 {"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
+{"transaction_id": "unknown", "severity": "MEDIUM RISK", "score": 50, "reasons": ["high_value_transfer_sol>=10", "rounded_amount_pattern"]}
