@@ -5,6 +5,7 @@ from solguard.scoring import score_transaction
 from solguard.alerts import generate_alert, write_jsonl
 
 
+
 def main(
     demo: bool = False,
     input_path: Optional[str] = None,
